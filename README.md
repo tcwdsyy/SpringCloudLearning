@@ -1,10 +1,10 @@
 # SpringCloud components： 
 - Service registry: nacos 
 - LoadBalance: SpringCloud LoadBalancer
-- Circuit Braeker: ?
+- Circuit Breaker: ?
 - GateWay: ?
 - Rest Client: OpenFeign 
-- Configuration managment: ? 
+- Configuration management: ? 
 - Performance monitor: ? 
-- Aplication performance tracking: ? 
+- Application performance tracking: ? 
 - Hystrix: ?
